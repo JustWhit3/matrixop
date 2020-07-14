@@ -1,5 +1,8 @@
 # Useful Informations (Work in Progress)
 
+## General Informations
+This project has been created in 2017, in order to train my C++ coding skills for the exam "Elementi di programmazione per la fisica" at the Bachelor's degree.
+
 ## List of the folders in the repository
 
 - [Project](https://github.com/JustWhit3/Matrix-Class/tree/master/Project): this folder contains all the most important informations about the project within the project itself. Quick link to the program is [here](https://github.com/JustWhit3/Matrix-Class/blob/master/Project/Matrix_Class.c%2B%2B).
