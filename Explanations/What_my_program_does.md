@@ -3,16 +3,28 @@
 ## General Introduction
 The purpose of this program is to perform a good part of the main useful mathematical operations between matrices. This program has been developed in order to train my C++ coding skills for the exam of "Elementi di programmazione per la fisica" of the Bachelor's degree.
 
+The program will execute only operations between squared matrices of the same order.
+
 ## Operations
 
 List of the executable operations within the program:
 
-- Sum and difference between matrices: see [here](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:adding-and-subtracting-matrices/a/adding-and-subtracting-matrices).
+- **Sum and difference between matrices**: see [here](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:adding-and-subtracting-matrices/a/adding-and-subtracting-matrices).
 
-- Rows by columns matrices product: see [here](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/a/multiplying-matrices).
+- **Rows by columns matrices product**: see [here](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/a/multiplying-matrices).
 
-- Matrix inversion with Gaus algorithm: see [here](https://www.intmath.com/matrices-determinants/inverse-matrix-gauss-jordan-elimination.php).
+- **Matrix inversion with Gaus algorithm**: see [here](https://www.intmath.com/matrices-determinants/inverse-matrix-gauss-jordan-elimination.php).
 
-- Matrix trace: [here](https://mathworld.wolfram.com/MatrixTrace.html).
+- **Matrix trace**: [here](https://mathworld.wolfram.com/MatrixTrace.html).
 
-- 
+- **Matrix determinant**: [here](https://www.mathsisfun.com/algebra/matrix-determinant.html).
+
+- **Resolution of linear system by the Gaus methos**: [here](http://math.univ-lille1.fr/~tumpach/Site/Enseignement_files/TD2_Gauss_solution.pdf).
+
+- **Matrix transpose**: [here](https://chortle.ccsu.edu/VectorLessons/vmch13/vmch13_14.html).
+
+- **Matrix rank**: [here](https://stattrek.com/matrix-algebra/matrix-rank.aspx).
+
+- **Matrix norm**: [here](https://mathworld.wolfram.com/MatrixNorm.html).
+
+- **Matrix Frobenius norm**: [here](https://mathworld.wolfram.com/FrobeniusNorm.html).
