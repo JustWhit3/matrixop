@@ -6,12 +6,13 @@ This folder contains all the informations related to the classes and functions u
 ## Libraries ([link](https://github.com/JustWhit3/Matrix-Class/blob/master/Reference%20Guides/Libraries.c%2B%2B))
 List of the libraries used in the program:
 - `iostream`: for the standard input/output functions.
-- `iomanip`: to manage spaces and distances between elements of each matrix in the output stream.
+- `iomanip`: to manage matrix elements spaces and distances in the output stream.
 - `cstdlib`: this header defines several general purpose functions, including dynamic memory management, random number generation, communication with the environment, integer arithmetics, searching, sorting and converting.
 - `fstream`: to manage input and output stream on files.
-- `string`: to manage strings with no limit of lenght in bytes.
+- `string`: to manage strings with no bytes limit of lenght.
 - `cmath`: to manage mathematical functions.
-Is used the namespace `std` to simplify the writing of `iostream` functions.
+
+Is also used the namespace `std` to simplify the writing of `iostream` functions.
 
 ## Template class: "MaxPtr" ([link](https://github.com/JustWhit3/Matrix-Class/blob/master/Reference%20Guides/templateClass_MaxPtr.c%2B%2B))
 Template class useful to find maximum value of a pointer. It depends on the following arguments:
@@ -22,8 +23,8 @@ Template class useful to find maximum value of a pointer. It depends on the foll
 Class for the creation of matrix-type objects. It has only public methods, members and constructors.
 
 ### Constructors
-- Constructors:  `Matrice () {}`, `Matrice (int)` to construct the matrix object.
-- Destroyer: `~Matrice ()` to destroy the matrix object.
+- Constructors:  `Matrice () {}`, `Matrice (int)` to construct the matrix objects.
+- Destroyer: `~Matrice ()` to destroy the matrix objects.
 
 ### Members
 - Double type members: `t, d, rg, Norma_1, Norma_2, Norma_3, zero`.
@@ -41,7 +42,7 @@ Class for the creation of matrix-type objects. It has only public methods, membe
 - `Stampa_Dato(double dato)`: takes a number and prints it in a file.
 - `Stampa_Sol(double *vet)`: takes a vector and prints it in a file.
 - `Rango()`: gives the rank of a matrix.
-- `Norma_Matriciale()`: gives the norm (norm-1, norm-inf- Frobenius norm) of a matrix.
+- `Norma_Matriciale()`: gives the norm (norm-1, norm-inf, Frobenius norm) of a matrix.
 - `Zero()`: method to set the "zero" of a matrix, in respect to the order of magnitude of each element.
 
 ### Operators redefinition
