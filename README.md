@@ -15,4 +15,4 @@ This project has been created in 2017, in order to train my C++ coding skills fo
 
 NOTE: for each folder there is a proper README.md file that explains in detail what are the documents inside it and what they do.
 
-NOTE 2: at the moment the language of the project is only Italian, because it is an old project.
+NOTE 2: at the moment, because it is an old project, the only language of the project is Italian,.
