@@ -11,7 +11,7 @@ Once you've done this, you need to search for the file "Matrix_Class.c", into th
 ### 3) Run the code on your computer
 To compile the code, if you have for example a GNU C++ compiler as g++, you've to tip this command on the bash:
 
-- `g++ -std=c++11 Matrix_Class.c`
+- `g++ -std=c++11 Matrix_Class.c++`
 
 Than to run the code tip:
 
