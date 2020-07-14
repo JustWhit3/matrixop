@@ -11,6 +11,7 @@ List of the libraries used in the program:
 - `fstream`: to manage input and output stream on files.
 - `string`: to manage strings with no limit of lenght in bytes.
 - `cmath`: to manage mathematical functions.
+Is used the namespace `std` to simplify the writing of `iostream` functions.
 
 ## Template class: "MaxPtr" ([link](https://github.com/JustWhit3/Matrix-Class/blob/master/Reference%20Guides/templateClass_MaxPtr.c%2B%2B))
 Template class useful to find maximum value of a pointer. It depends on the following arguments:
@@ -43,8 +44,11 @@ Class for the creation of matrix-type objects. It has only public methods, membe
 - `Norma_Matriciale()`: gives the norm (norm-1, norm-inf- Frobenius norm) of a matrix.
 - `Zero()`: method to set the "zero" of a matrix, in respect to the order of magnitude of each element.
 
-### Operator redefinition
+### Operators redefinition
 - `+=`: for the sum between each element of matrices.
 - `-=`: for the difference between each element of matrices.
 - `*=`: for the rows by columns product of matrices.
 - `<<`: for the output print of a matrix.
+
+## Function "Main" ([link](https://github.com/JustWhit3/Matrix-Class/blob/master/Reference%20Guides/Function_Main.c%2B%2B))
+This function is an int-type function and is useful to run the code and methods of the "Matrice" class. It is nestled with if/else conditions and the use of "cerr" command for the error output stream.
