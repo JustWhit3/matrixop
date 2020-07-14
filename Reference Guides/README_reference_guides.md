@@ -1,7 +1,7 @@
 # Reference guides folder
 
 ## General informations
-This folder contains all the informations related to the classes and functions used for the program.
+This folder contains all the informations related to the classes and functions used in the program.
 
 ## Libraries ([link](https://github.com/JustWhit3/Matrix-Class/blob/master/Reference%20Guides/Libraries.c%2B%2B))
 List of the libraries used in the program:
