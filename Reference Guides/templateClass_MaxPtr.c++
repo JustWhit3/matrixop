@@ -1,3 +1,4 @@
+//TEMPLATE PER LA RICERCA DEL VALORE MASSIMO DI UN PUNTATORE QUALSIASI.
 template <class A>
 A MaxPtr (A *ptr, int a)
 {
