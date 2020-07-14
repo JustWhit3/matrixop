@@ -44,3 +44,6 @@ If you tip correcly all the commands, you will see this output in your shell:
 `10: Rango di una matrice.`
 
 `11: Norma Matriciale.`
+
+### 4) Choose your operation
+Now you can tip on the shell the number of the operation you want to perform.
