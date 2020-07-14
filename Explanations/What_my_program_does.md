@@ -1,7 +1,7 @@
 # Matrices Computations
 
 ## General Introduction
-The purpose of this program is to perform a good part of the main useful mathematical operations between matrices. This program has been developed in order to train my C++ coding skills for the exam of "Elementi di programmazione per la fisica" of the Bachelor's degree.
+The purpose of this program is to perform a good part of the main useful mathematical operations between matrices. This program has been developed in order to train my C++ coding skills for the exam of "Elementi di programmazione per la fisica" at the Bachelor's degree.
 
 The program will execute only operations between squared matrices of the same order.
 
