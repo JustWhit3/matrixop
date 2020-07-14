@@ -7,7 +7,7 @@ The program will execute only operations between squared matrices of the same or
 
 ## Operations
 
-List of the executable operations within the program:
+List of the mathematical explanations of the executable operations within the program:
 
 - **Sum and difference between matrices**: see [here](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:adding-and-subtracting-matrices/a/adding-and-subtracting-matrices).
 
