@@ -16,3 +16,31 @@ To compile the code, if you have for example a GNU C++ compiler as g++, you've t
 Than to run the code tip:
 
 - `./a.out`
+
+If you tip correcly all the commands, you will see this output in your shell: 
+
+`Digita un numero per scegliere quale operazione eseguire:`
+
+`NOTA: Tutte le seguenti operazioni sono disponibili soltanto tra matrici quadrate dello stesso ordine.`
+
+`1: Termina il programma.`
+
+`2: Inversione di una matrice mediante l'algoritmo di Gauss.`
+
+`3: Somma di due matrici.`
+
+`4: Differenza tra due matrici.`
+
+`5: Traccia di una matrice.`
+
+`6: Determinante di una matrice.`
+
+`7: Prodotto righe per colonne tra due matrici.`
+
+`8: Risoluzione di un sistema lineare mediante il metodo dell'inversa.`
+
+`9: Trasposta di una matrice e verifica di simmetria.`
+
+`10: Rango di una matrice.`
+
+`11: Norma Matriciale.`
