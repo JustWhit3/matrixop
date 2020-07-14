@@ -35,3 +35,16 @@ Class for the creation of matrix-type objects. It has only public methods, membe
 - `Traccia()`: gives the trace of a matrix.
 - `Determinante()`: gives the determinant of a matrix.
 - `Sistema_Lineare()`: gives solutions of a matrix linear system with the Gauss method.
+- `Trasposta()`: gives the transpose of a matrix.
+- `Stampa_I(double **I)`: takes a matrix and prints it in a file.
+- `Stampa_Dato(double dato)`: takes a number and prints it in a file.
+- `Stampa_Sol(double *vet)`: takes a vector and prints it in a file.
+- `Rango()`: gives the rank of a matrix.
+- `Norma_Matriciale()`: gives the norm (norm-1, norm-inf- Frobenius norm) of a matrix.
+- `Zero()`: method to set the "zero" of a matrix, in respect to the order of magnitude of each element.
+
+### Operator redefinition
+- `+=`: for the sum between each element of matrices.
+- `-=`: for the difference between each element of matrices.
+- `*=`: for the rows by columns product of matrices.
+- `<<`: for the output print of a matrix.
