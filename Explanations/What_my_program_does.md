@@ -15,16 +15,16 @@ List of the executable operations within the program:
 
 - **Matrix inversion with Gaus algorithm**: see [here](https://www.intmath.com/matrices-determinants/inverse-matrix-gauss-jordan-elimination.php).
 
-- **Matrix trace**: [here](https://mathworld.wolfram.com/MatrixTrace.html).
+- **Matrix trace**: see [here](https://mathworld.wolfram.com/MatrixTrace.html).
 
-- **Matrix determinant**: [here](https://www.mathsisfun.com/algebra/matrix-determinant.html).
+- **Matrix determinant**: see [here](https://www.mathsisfun.com/algebra/matrix-determinant.html).
 
-- **Resolution of linear system by the Gaus methos**: [here](http://math.univ-lille1.fr/~tumpach/Site/Enseignement_files/TD2_Gauss_solution.pdf).
+- **Resolution of linear system by the Gaus methos**: see [here](http://math.univ-lille1.fr/~tumpach/Site/Enseignement_files/TD2_Gauss_solution.pdf).
 
-- **Matrix transpose**: [here](https://chortle.ccsu.edu/VectorLessons/vmch13/vmch13_14.html).
+- **Matrix transpose**: see [here](https://chortle.ccsu.edu/VectorLessons/vmch13/vmch13_14.html).
 
-- **Matrix rank**: [here](https://stattrek.com/matrix-algebra/matrix-rank.aspx).
+- **Matrix rank**: see [here](https://stattrek.com/matrix-algebra/matrix-rank.aspx).
 
-- **Matrix norm**: [here](https://mathworld.wolfram.com/MatrixNorm.html).
+- **Matrix norm**: see [here](https://mathworld.wolfram.com/MatrixNorm.html).
 
-- **Matrix Frobenius norm**: [here](https://mathworld.wolfram.com/FrobeniusNorm.html).
+- **Matrix Frobenius norm**: see [here](https://mathworld.wolfram.com/FrobeniusNorm.html).
