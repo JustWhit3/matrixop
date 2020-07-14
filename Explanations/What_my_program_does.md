@@ -28,3 +28,6 @@ List of the mathematical explanations of the executable operations within the pr
 - **Matrix norm**: see [here](https://mathworld.wolfram.com/MatrixNorm.html).
 
 - **Matrix Frobenius norm**: see [here](https://mathworld.wolfram.com/FrobeniusNorm.html).
+
+## Other Utilities
+After performing an operation is possible to print the result (matrix, vector or scalar) on an external document (.txt, .odt etc...), in order to save your results.
