@@ -1,4 +1,4 @@
-# Useful Informations (Work in Progress)
+# Useful Informations
 
 ## General Informations
 This project has been created in 2017, in order to train my C++ coding skills for the exam "Elementi di programmazione per la fisica" at the Bachelor's degree.
