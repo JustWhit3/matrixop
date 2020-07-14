@@ -5,7 +5,7 @@ This project has been created in 2017, in order to train my C++ coding skills fo
 
 ## List of the folders in the repository
 
-- [Project](https://github.com/JustWhit3/Matrix-Class/tree/master/Project): this folder contains all the most important informations about the project within the project itself. Quick link to the program is [here](https://github.com/JustWhit3/Matrix-Class/blob/master/Project/Matrix_Class.c%2B%2B).
+- [Project](https://github.com/JustWhit3/Matrix-Class/tree/master/Project): this folder contains all the most important informations about the project itself. Quick link to the program is [here](https://github.com/JustWhit3/Matrix-Class/blob/master/Project/Matrix_Class.c%2B%2B).
 
 - [How-to guides](https://github.com/JustWhit3/Matrix-Class/tree/master/How-to%20guides): this folder contains all the guides necessary to run the program in your device.
 
