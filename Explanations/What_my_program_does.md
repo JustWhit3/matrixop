@@ -19,7 +19,7 @@ List of the mathematical explanations of the executable operations within the pr
 
 - **Matrix determinant**: see [here](https://www.mathsisfun.com/algebra/matrix-determinant.html).
 
-- **Resolution of linear system by the Gaus methos**: see [here](http://math.univ-lille1.fr/~tumpach/Site/Enseignement_files/TD2_Gauss_solution.pdf).
+- **Resolution of linear systems by the Gauss method**: see [here](http://math.univ-lille1.fr/~tumpach/Site/Enseignement_files/TD2_Gauss_solution.pdf).
 
 - **Matrix transpose**: see [here](https://chortle.ccsu.edu/VectorLessons/vmch13/vmch13_14.html).
 
