@@ -17,15 +17,13 @@ The purpose of this library is to perform a good part of the main useful mathema
 
 ## Description of the repository
 
-Excluding this README.md file, the [*License*](https://github.com/JustWhit3/matrixop/blob/master/License) file and the [*.gitignore*](https://github.com/JustWhit3/mstrixop/blob/main/.gitignore) file, the repository contains two directories:
-- [**include**](https://github.com/JustWhit3/matrixop/tree/main/include): which contains the class and functions declaration file [*matrixop.h*](https://github.com/JustWhit3/matrixop/blob/main/include/matrixop.h).
-- [**src**](https://github.com/JustWhit3/matrixop/tree/main/src): which contains two .cpp files:
-  * [*matrixop.cpp*](https://github.com/JustWhit3/matrixop/blob/main/src/matrixop.cpp): which is the manipulator definition file.
-  * [*main.cpp*](https://github.com/JustWhit3/matrixop/blob/main/src/main.cpp): which shows you an example of the manipulator utility.
+Excluding this README.md file, the [*License*](https://github.com/JustWhit3/matrixop/blob/master/License) file and the [*.gitignore*](https://github.com/JustWhit3/matrixop/blob/master/.gitignore) file, the repository contains two directories:
+- [**include**](https://github.com/JustWhit3/matrixop/tree/master/include): which contains the class and functions declaration file [*matrixop.h*](https://github.com/JustWhit3/matrixop/blob/master/include/matrixop.h).
+- [**src**](https://github.com/JustWhit3/matrixop/tree/master/src): which contains two .cpp files:
+  * [*matrixop.cpp*](https://github.com/JustWhit3/matrixop/blob/master/src/matrixop.cpp): which is the manipulator definition file.
+  * [*main.cpp*](https://github.com/JustWhit3/matrixop/blob/master/src/main.cpp): which shows you an example of the manipulator utility.
 
-There is also a [*makefile*](https://github.com/JustWhit3/matrixop/blob/main/makefile) for code compilation.
-
-#############################################################################################################################################################
+There is also a [*makefile*](https://github.com/JustWhit3/matrixop/blob/master/makefile) for code compilation.
 
 > **Note**
 > 
@@ -87,7 +85,7 @@ cd matrixop
 
 ### Compile and run
 
-Now, let's suppose to continue from the previous step. For the compilation part I prepared a [makefile](https://github.com/JustWhit3/matrixop/blob/main/makefile), in order to simplify this procedure. So you have to run the [makefile](https://github.com/JustWhit3/matrixop/blob/main/makefile) by typing:
+Now, let's suppose to continue from the previous step. For the compilation part I prepared a [makefile](https://github.com/JustWhit3/matrixop/blob/master/makefile), in order to simplify this procedure. So you have to run the [makefile](https://github.com/JustWhit3/matrixop/blob/master/makefile) by typing:
 ```shell
 make
 ```
@@ -113,7 +111,7 @@ Where `path/to/matrixop/` is the path to the directory in which you put the matr
 #include "matrixop.h"
 ```
 In this latter case you can omit the full path. 
-> Remember to do this also in [*matrixop.cpp*](https://github.com/JustWhit3/matrixop/blob/main/src/matrixop.cpp) 
+> Remember to do this also in [*matrixop.cpp*](https://github.com/JustWhit3/matrixop/blob/master/src/matrixop.cpp) 
 > and in your makefile or maybe set this latter in order to avoid this path dependence.
 
 Now you are able to access the class and al the functions of the library. 
@@ -146,12 +144,6 @@ Class `matrixop`:
   * `<<`: for the output print of a matrix.
 
 ## List of features
-
-Here you can find a screenshot of the output stream of the [*main.cpp*](https://github.com/JustWhit3/osmanip/blob/main/main/main.cpp) program which shows you all the features supported in the current version of the manipulator:
-
-<img src="https://github.com/JustWhit3/osmanip/blob/main/img/output.png">
-
-## List of future implementations
 
 List of the documentations for each operation supported the by program:
 
