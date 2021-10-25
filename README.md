@@ -8,7 +8,7 @@
   * [Compile and run](#compile-and-run)
 - [How does matrixop work](#how-does-matrixop-work)
   * [Include the library](#include-the-library)
-  * [Class, functions and variables](#class-functions-and-variables)
+  * [Class and functions](#class-and-functions)
 - [List of features](#list-of-features)
 
 ## Introduction
@@ -118,7 +118,7 @@ In this latter case you can omit the full path.
 
 Now you are able to access the class and al the functions of the library. 
 
-### Class, functions and variables
+### Class and functions
 
 Functions:
 - `template <class A> A MaxPtr (A *ptr, int a)`: template class useful to find maximum value of a pointer.
