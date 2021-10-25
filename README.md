@@ -175,4 +175,3 @@ List of the documentations for each operation supported the by program:
 
 - **Matrix Frobenius norm**: see [here](https://mathworld.wolfram.com/FrobeniusNorm.html).
 
-
