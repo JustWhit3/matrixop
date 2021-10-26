@@ -44,15 +44,15 @@ First of all, you need to download the code: go to the [main page](https://githu
 
 Then open a fresh shell and move the downloaded zipped file to your home directory (or to any other place you prefer):
 ```shell
-mv Downloads/matrixop-main.zip $HOME
+mv Downloads/matrixop-master.zip $HOME
 ```
 Where ``Downloads`` have to be replaced with the right name (and maybe the right path) of your downloads directory.
 
 Now you have to enter your home folder (unless you were already in it, in this case skip this passage), extract the folder from the zipped file and renaming itself with its right repository name. Therefore lets type this commands one after the other:
 ```shell
 cd $HOME
-unzip matrixop-main.zip
-mv matrixop-main matrixop
+unzip matrixop-master.zip
+mv matrixop-master matrixop
 ```
 And that's all. You can enter the folder by simply typing:
 ```shell
