@@ -51,10 +51,10 @@ matrixop::matrixop (int)
 //Destructor definition:
 matrixop::~matrixop ()
  {
-  for(int i=0;i<a;i++) {delete I[i];delete k[i];}
-  for(int i=0;i<a;i++) delete w[i]; 
-  for(int i=0;i<a;i++) delete S[i]; 
-  delete I, k, w, mtr, v, V, S;
+  for(int i=0;i<a;i++) {delete[] I[i], delete[] k[i];}
+  for(int i=0;i<a;i++) delete[] w[i]; 
+  for(int i=0;i<a;i++) delete[] S[i]; 
+  delete[] I, k, w, mtr, v, V, S;
  }
 
 //Inverse method definition:
@@ -276,9 +276,8 @@ const matrixop &matrixop::operator *= (const matrixop &A)
 std::ostream& operator << (std::ostream& os, matrixop &A)
  {
   std::cout << "Matrix is: " << std::endl;
-  int a;
-    for (int i=0; i<a; i++)
-     {for (int j=0; j<a; j++)
+    for (int i=0; i<A.a; i++)
+     {for (int j=0; j<A.a; j++)
       {os << std::setprecision (2) << std::setw (6) << A.k[i][j] << " ";}
        os << std::endl;}
     os << std::endl;
