@@ -17,6 +17,8 @@
 
 The purpose of this library is to perform a good part of the main useful mathematical operations between matrices. It runs only over squared matrices of the same order. This program has been developed in 2017 for the exam "Elementi di programmazione per la fisica" at bachelor degree in physics at University of Bologna. In 2021 it has been updated with modern C++ coding conventions.
 
+If you want to cite this repository, please use the [this](https://github.com/JustWhit3/matrixop/blob/master/CITATION.cff) template.
+
 ## Description of the repository
 
 Repository diagram structure:
@@ -28,6 +30,7 @@ matrixop/
 │   ├── matrixop.cpp
 │   ├── main.cpp
 │── README.md
+│── CITATION.cff
 │── License
 │── .gitignore
 ├── makefile
@@ -39,13 +42,6 @@ Excluding this README.md file, the [*License*](https://github.com/JustWhit3/matr
   * [*main.cpp*](https://github.com/JustWhit3/matrixop/blob/master/src/main.cpp): which shows you an example of the manipulator utility.
 
 There is also a [*makefile*](https://github.com/JustWhit3/matrixop/blob/master/makefile) for code compilation.
-
-> **Note**
-> 
->The structure of the repository may seems more complex than what is needed, since there are many 
->subdirectories and a makefile for compilation, that can be avoided in this case, due to the 
-> simplicity of the code structure, however I usually prefer keeping this structure in all 
-> my projects. Therefore is is just a matter of conventions.
 
 ## Run the code
 
