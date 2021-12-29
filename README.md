@@ -19,6 +19,19 @@ The purpose of this library is to perform a good part of the main useful mathema
 
 ## Description of the repository
 
+Repository diagram structure:
+```
+matrixop/
+├── include/
+│   ├── matrixop.h
+├── src/
+│   ├── matrixop.cpp
+│   ├── main.cpp
+│── README.md
+│── License
+│── .gitignore
+├── makefile
+```
 Excluding this README.md file, the [*License*](https://github.com/JustWhit3/matrixop/blob/master/License) file and the [*.gitignore*](https://github.com/JustWhit3/matrixop/blob/master/.gitignore) file, the repository contains two directories:
 - [**include**](https://github.com/JustWhit3/matrixop/tree/master/include): which contains the class and functions declaration file [*matrixop.h*](https://github.com/JustWhit3/matrixop/blob/master/include/matrixop.h).
 - [**src**](https://github.com/JustWhit3/matrixop/tree/master/src): which contains two .cpp files:
