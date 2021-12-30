@@ -15,7 +15,7 @@
 
 ## Introduction
 
-The purpose of this library is to perform a good part of the main useful mathematical operations between matrices. It runs only over squared matrices of the same order. This program has been developed in 2017 for the exam "Elementi di programmazione per la fisica" at bachelor degree in physics at University of Bologna. In 2021 it has been updated with modern C++ coding conventions.
+The purpose of this library is to perform a good part of the main useful mathematical operations between matrices. It runs only over squared matrices of the same order. This program has been developed in 2017 for the exam "[Elementi di programmazione per la fisica](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2015/328882)" at bachelor degree in physics at University of Bologna. In 2021 it has been updated with modern C++ coding conventions.
 
 If you want to cite this repository, please use the [this](https://github.com/JustWhit3/matrixop/blob/master/CITATION.cff) template.
 
