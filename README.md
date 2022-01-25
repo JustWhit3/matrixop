@@ -1,5 +1,16 @@
-# matrixop
+<p align="center"><img src="https://github.com/JustWhit3/matrixop/blob/master/img/logo.svg" height=220></p>
 
+<h3 align="center">My personal matrix algebra library</h3>
+<p align="center">
+    <img title="v2.0" alt="v2.0" src="https://img.shields.io/badge/version-v2.0-informational?style=flat-square"
+    <a href="LICENSE">
+        <img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">
+    </a>
+	<img title="C++11" alt="C++11" src="https://img.shields.io/badge/c++-11-informational?style=flat-square">
+    </a>
+</p>
+
+***
 ## Table of contents
 - [Introduction](#introduction)
 - [Description of the repository](#description-of-the-repository)
