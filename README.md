@@ -30,6 +30,8 @@ The purpose of this library is to perform a good part of the main useful mathema
 
 If you want to cite this repository, please use [this](https://github.com/JustWhit3/matrixop/blob/master/CITATION.cff) template.
 
+Output example: 
+
 <img src="https://github.com/JustWhit3/matrixop/blob/master/img/matrixop.gif">
 
 ## Description of the repository
