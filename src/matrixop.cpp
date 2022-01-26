@@ -54,7 +54,6 @@ matrixop::~matrixop ()
   for(int i=0;i<a;i++) {delete[] I[i], delete[] k[i];}
   for(int i=0;i<a;i++) delete[] w[i]; 
   for(int i=0;i<a;i++) delete[] S[i]; 
-  delete[] I, k, w, mtr, v, V, S;
  }
 
 //Inverse method definition:

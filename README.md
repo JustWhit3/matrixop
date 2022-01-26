@@ -6,7 +6,7 @@
     <a href="LICENSE">
         <img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">
     </a>
-	<img title="C++11" alt="C++11" src="https://img.shields.io/badge/c++-11-informational?style=flat-square">
+	<img title="C/C++11" alt="C/C++11" src="https://img.shields.io/badge/c++-11-informational?style=flat-square">
     </a>
 </p>
 
@@ -29,6 +29,8 @@
 The purpose of this library is to perform a good part of the main useful mathematical operations between matrices. It runs only over squared matrices of the same order. A list of the features is shown [here](#list-of-features).
 
 If you want to cite this repository, please use [this](https://github.com/JustWhit3/matrixop/blob/master/CITATION.cff) template.
+
+<img src="https://github.com/JustWhit3/matrixop/blob/master/img/matrixop.gif">
 
 ## Description of the repository
 
