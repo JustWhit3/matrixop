@@ -6,7 +6,7 @@
     <a href="LICENSE">
         <img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">
     </a>
-	<img title="C/C++11" alt="C/C++11" src="https://img.shields.io/badge/c++-11-informational?style=flat-square">
+	<img title="C/C++11" alt="C/C++11" src="https://img.shields.io/badge/C/c++-11-informational?style=flat-square">
     </a>
 </p>
 
