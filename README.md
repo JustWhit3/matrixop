@@ -17,7 +17,7 @@
 
 The purpose of this library is to perform a good part of the main useful mathematical operations between matrices. It runs only over squared matrices of the same order. A list of the features is shown [here](#list-of-features).
 
-If you want to cite this repository, please use the [this](https://github.com/JustWhit3/matrixop/blob/master/CITATION.cff) template.
+If you want to cite this repository, please use [this](https://github.com/JustWhit3/matrixop/blob/master/CITATION.cff) template.
 
 ## Description of the repository
 
@@ -29,6 +29,7 @@ matrixop/
 ├── src/
 │   ├── matrixop.cpp
 │   ├── main.cpp
+│── img
 │── README.md
 │── CITATION.cff
 │── License
@@ -117,7 +118,7 @@ Once you have added the library to one of your project, you may want to be able 
 ```c++
 #include "path/to/matrixop/matrixop.h"
 ```
-Where `path/to/matrixop/` is the path to the directory in which you put the matrixoplibrary. If you put the library in the same folder of the project you are working with you have simply to do:
+Where `path/to/matrixop/` is the path to the directory in which you put the matrixop library. If you put the library in the same folder of the project you are working with you have simply to do:
 ```c++
 #include "matrixop.h"
 ```
