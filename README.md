@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/JustWhit3/matrixop/blob/master/img/logo.svg" height=220></p>
 
-<h3 align="center">My personal matrix algebra library</h3>
+<h3 align="center">A C++11 matrix algebra library. Project for the exam "Elementi di programmazione per la fisica" at Bachelor in Physics.</h3>
 <p align="center">
     <img title="v2.0" alt="v2.0" src="https://img.shields.io/badge/version-v2.0-informational?style=flat-square"
     <a href="LICENSE">
